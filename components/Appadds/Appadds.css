@@ -1,0 +1,31 @@
+.app__heading{
+    font-weight: 700;
+}
+
+.app__heading p{
+    font-weight: 300;
+}
+
+.mainAppAdds{
+    padding: 20px;
+    position: relative;
+    left: 100px !important;
+    top: 19px;
+}
+
+.apptoday{
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+.playstorebtn, .appstorebtn{
+    margin: 10px;
+    width: 100px;
+}
+
+.playstorebtn{
+    margin-left: 50px;
+}

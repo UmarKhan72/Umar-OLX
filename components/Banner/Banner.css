@@ -1,0 +1,13 @@
+.umBannerImg {
+    height: 252px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    margin-bottom: 50px;
+    position: relative;
+    /* bottom: 20px; */
+    top: 65px;
+
+
+}
